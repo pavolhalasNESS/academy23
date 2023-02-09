@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Hello Big world
-=======
-Hello Small world
->>>>>>> 7b931d4406580fcdcf9e652f8acf042c02dfbdc9
+Hello Big and Small world
 I am Pavol
 and day is great
