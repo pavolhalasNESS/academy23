@@ -1,4 +1,8 @@
-Hello Big and Small world
+<<<<<<< HEAD
+Hello Big world
+=======
+Hello Small world
+>>>>>>> 7b931d4406580fcdcf9e652f8acf042c02dfbdc9
 I am Pavol
 and day is great
 weather is awesome
